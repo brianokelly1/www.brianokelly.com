@@ -1,0 +1,33 @@
+baseURL = "http://www.brianokelly.com/"
+languageCode = "en-us"
+title = "www.brianokelly.com"
+theme = "ananke"
+
+Paginate = 9
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[menu]
+
+[[menu.main]]
+ identifier =  "about"
+ name = "About Me"
+ url = "/about/"
+
+[[menu.main]]
+ identifier = "contact"
+ name = "Contact"
+ url = "/contact/" 
+
+[sitemap]
+ changefreq = "yearly"
+ priority = 0.5
+ filename = "sitemap.xml"
+
+[params]
+ featured_image = "/images/brighton_marathon.jpg"
+ facebook = "https://www.facebook.com/brianokelly"
+ instagram = "https://www.instagram.com/brianokelly26.2/"
+ linkedin = "https://ie.linkedin.com/in/brianjamesokelly"
