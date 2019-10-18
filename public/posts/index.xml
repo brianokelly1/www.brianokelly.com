@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on www.brianokelly.com</title>
-    <link>http://www.brianokelly.com/posts/</link>
+    <link>https://www.brianokelly.com/posts/</link>
     <description>Recent content in Articles on www.brianokelly.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2019 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://www.brianokelly.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.brianokelly.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to run a sub 15 minute 5k</title>
-      <link>http://www.brianokelly.com/posts/sub15-5k/</link>
+      <link>https://www.brianokelly.com/posts/sub15-5k/</link>
       <pubDate>Thu, 17 Oct 2019 11:56:30 +0000</pubDate>
       
-      <guid>http://www.brianokelly.com/posts/sub15-5k/</guid>
+      <guid>https://www.brianokelly.com/posts/sub15-5k/</guid>
       <description>Overview This document is basically a brain dump of what I did in training from October in 2018 to February 2019, ending in the Armagh 5k road race on the 14th of February where I ran 14:46. It consists of 18 weeks of training. I am based in Dublin, Ireland. Feel free to reach out to me if you have any questions or comments on this doc (comment directly on the doc or drop me an email, contact details are in the header of this doc).</description>
     </item>
     

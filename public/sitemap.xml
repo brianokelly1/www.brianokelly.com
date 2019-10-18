@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.brianokelly.com/posts/</loc>
+    <loc>https://www.brianokelly.com/posts/</loc>
     <lastmod>2019-10-17T12:00:00-05:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.brianokelly.com/about/</loc>
+    <loc>https://www.brianokelly.com/about/</loc>
     <lastmod>2019-10-17T11:59:34+00:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.brianokelly.com/</loc>
+    <loc>https://www.brianokelly.com/</loc>
     <lastmod>2019-10-17T11:59:34+00:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.brianokelly.com/posts/sub15-5k/</loc>
+    <loc>https://www.brianokelly.com/posts/sub15-5k/</loc>
     <lastmod>2019-10-17T11:56:30+00:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.brianokelly.com/categories/</loc>
+    <loc>https://www.brianokelly.com/categories/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.brianokelly.com/contact/</loc>
+    <loc>https://www.brianokelly.com/contact/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.brianokelly.com/tags/</loc>
+    <loc>https://www.brianokelly.com/tags/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
