@@ -1,5 +1,5 @@
 ---
-title: "How to run a sub 15 minute 5k"
+title: "How to run a sub 15 minute 5k - Armagh 2019"
 date: 2019-10-17T11:56:30Z
 draft: false
 ---
