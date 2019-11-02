@@ -8,6 +8,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 googleAnalytics = "UA-150266721-1"
 enableRobotsTXT = true
+disqusShortname = "www-brianokelly-com"
 
 [menu]
 

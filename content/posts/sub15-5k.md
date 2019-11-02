@@ -4,6 +4,14 @@ date: 2019-10-17T11:56:30Z
 draft: false
 ---
 
+This document details my progression from being in around 16:30 minute 5k pace
+to running 14:46 for 5k in the space of about 18 weeks. My previous 5k best
+before the race was 15:19 from 1 year before. During the period, I averaged
+110 kilometres per week and separated my training into 3 phases, base build,
+introduction of speed and then sharpening. I firmly believe that any runner in
+16:30 shape could take this plan and replicate its outcome.
+
+
 # Overview
 
 This document is basically a brain dump of what I did in training from October
@@ -513,7 +521,4 @@ training off of Kevin Dooney’s training which is publicly available on Strava
 ([here](https://www.strava.com/athletes/21183025)) and of which I am very
 grateful for him to have shared.
 
-## Jack Daniels’ Running Formula
-
-See here on Amazon, this should be in every runner’s library.
 

@@ -7,10 +7,13 @@ omit_header_text: false
 
 ---
 
-Here are some links to my public profiles, feel free to follow me on Strava:
+As of 2019, I am a 36 year old father of 1. I took up running while living in Australia in 2010
+and focused mainly on marathons up until 2017 when I switched my focus to trying to improve my
+speed over short distances (5k and 10k). Here are some links to my public profiles,
+feel free to follow me on Strava:
 
-[IAAF Profile](https://www.iaaf.org/athletes/ireland/brian-okelly-377169)
+ *  [My IAAF Profile](https://www.iaaf.org/athletes/ireland/brian-okelly-377169)
 
-[Strava Profile](https://www.strava.com/athletes/20811600)
+ *  [My Strava Profile](https://www.strava.com/athletes/20811600)
 
 
